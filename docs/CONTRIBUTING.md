@@ -143,6 +143,8 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 
 ## <a name="cla"></a> Signing the CLA
 
+Hello from branch2
+
 Please sign our Contributor License Agreement (CLA) before sending pull requests. For any code
 changes to be accepted, the CLA must be signed. It's a quick process, we promise!
 
