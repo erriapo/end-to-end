@@ -1,7 +1,7 @@
 End-To-End
 ==========
 
-[This is the original ABOUT1 page from https://github.com/google/end-to-end. It
+[This is the original ABOUT1 or ABOUT2 page from https://github.com/google/end-to-end. It
 does not necessarily apply to the Yahoo version but is included here for
 informational purposes.]
 
