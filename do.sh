@@ -24,6 +24,7 @@ BUILD_DIR="build"
 BUILD_TPL_DIR="$BUILD_DIR/templates"
 cd ${0%/*}
 PKG_VERSION=`git rev-parse HEAD`
+GAVIN="cool"
 
 e2e_assert_dependencies() {
   # Check if required binaries are present.
