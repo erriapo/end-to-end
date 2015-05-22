@@ -25,7 +25,6 @@
 --jscomp_error=undefinedVars
 --jscomp_error=unknownDefines
 --jscomp_error=uselessCode
---jscomp_error=visibility
 --externs=lib/chrome_extensions.js
 --only_closure_dependencies
 --manage_closure_dependencies
